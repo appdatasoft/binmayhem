@@ -1,0 +1,145 @@
+[28-Jul-2020 12:17:48 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:17:48 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:17:48 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:04 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:04 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:04 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:23 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:23 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:23 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:23 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:23 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:23 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:27 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:27 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:27 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:31 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:31 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:31 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:31 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:31 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:31 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:31 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:31 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:31 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:32 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:32 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:32 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:32 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:32 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:32 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:32 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:32 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:32 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:32 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:32 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:18:32 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:20:37 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:20:37 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:20:37 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:20:53 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:20:53 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:20:53 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:21:28 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:21:28 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:21:28 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:56:12 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:56:12 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[28-Jul-2020 12:56:12 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 3
+[18-Jun-2021 19:48:12 America/Boise] PHP Warning:  file_get_contents(https://mailchi.mp/77e41363178e/qr-landing-page): failed to open stream: HTTP request failed! in /home1/falkenfr/public_html/binmayhem/newsletter.php on line 2
+[25-Sep-2021 11:38:31 America/Boise] PHP Warning:  file_get_contents(https://mailchi.mp/77e41363178e/qr-landing-page): failed to open stream: HTTP request failed! in /home1/falkenfr/public_html/binmayhem/newsletter.php on line 2
+[17-Oct-2021 14:57:33 America/Boise] PHP Warning:  file_get_contents(https://mailchi.mp/77e41363178e/qr-landing-page): failed to open stream: HTTP request failed! in /home1/falkenfr/public_html/binmayhem/newsletter.php on line 2
+[25-Feb-2022 13:55:47 America/Boise] PHP Warning:  file_get_contents(https://mailchi.mp/77e41363178e/qr-landing-page): failed to open stream: HTTP request failed! in /home1/falkenfr/public_html/binmayhem/newsletter.php on line 2
+[28-Feb-2022 15:06:44 America/Boise] PHP Warning:  file_get_contents(https://mailchi.mp/77e41363178e/qr-landing-page): failed to open stream: HTTP request failed! in /home1/falkenfr/public_html/binmayhem/newsletter.php on line 2
+[28-Feb-2022 15:06:46 America/Boise] PHP Warning:  file_get_contents(https://mailchi.mp/77e41363178e/qr-landing-page): failed to open stream: HTTP request failed! in /home1/falkenfr/public_html/binmayhem/newsletter.php on line 2
+[04-Mar-2022 00:13:36 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:13:36 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:13:36 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:14:42 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:14:42 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:14:42 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:15:29 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:15:29 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:15:29 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:15:32 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:15:32 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:15:32 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:15:44 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:15:44 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:15:44 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:16:01 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:16:01 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:16:01 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:18:55 America/Boise] PHP Warning:  require(phpmailer/class/phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:18:55 America/Boise] PHP Warning:  require(phpmailer/class/phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:18:55 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class/phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:20:43 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:20:43 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:20:43 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:21:02 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:21:02 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:21:02 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 00:28:01 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 6
+[04-Mar-2022 00:28:01 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 6
+[04-Mar-2022 00:28:01 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 6
+[04-Mar-2022 00:28:03 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 6
+[04-Mar-2022 00:28:03 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 6
+[04-Mar-2022 00:28:03 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 6
+[04-Mar-2022 00:42:15 America/Boise] PHP Warning:  require(src/Exception.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 7
+[04-Mar-2022 00:42:15 America/Boise] PHP Warning:  require(src/Exception.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 7
+[04-Mar-2022 00:42:15 America/Boise] PHP Fatal error:  require(): Failed opening required 'src/Exception.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 7
+[04-Mar-2022 01:13:24 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 01:13:24 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 01:13:24 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 01:13:28 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 01:13:28 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 01:13:28 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 01:31:58 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 01:31:58 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 01:31:58 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 01:50:54 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 01:50:54 America/Boise] PHP Warning:  require(phpmailer/class.phpmailer.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 01:50:54 America/Boise] PHP Fatal error:  require(): Failed opening required 'phpmailer/class.phpmailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 5
+[04-Mar-2022 01:52:17 America/Boise] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 9
+[04-Mar-2022 01:52:17 America/Boise] PHP Warning:  require(/vendor/autoload.php): failed to open stream: No such file or directory in /home1/falkenfr/public_html/binmayhem/action.php on line 9
+[04-Mar-2022 01:52:17 America/Boise] PHP Fatal error:  require(): Failed opening required '/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home1/falkenfr/public_html/binmayhem/action.php on line 9
+[04-Mar-2022 01:52:46 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dealonio_wp391'@'localhost' (using password: YES) in /home1/falkenfr/public_html/binmayhem/action.php on line 90
+[04-Mar-2022 01:52:46 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/falkenfr/public_html/binmayhem/action.php on line 102
+[04-Mar-2022 01:52:46 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home1/falkenfr/public_html/binmayhem/action.php on line 114
+[04-Mar-2022 02:13:11 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dealonio_wp391'@'localhost' (using password: YES) in /home1/falkenfr/public_html/binmayhem/action.php on line 90
+[04-Mar-2022 02:13:11 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/falkenfr/public_html/binmayhem/action.php on line 102
+[04-Mar-2022 02:13:11 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home1/falkenfr/public_html/binmayhem/action.php on line 114
+[04-Mar-2022 02:13:17 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dealonio_wp391'@'localhost' (using password: YES) in /home1/falkenfr/public_html/binmayhem/action.php on line 90
+[04-Mar-2022 02:13:17 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/falkenfr/public_html/binmayhem/action.php on line 102
+[04-Mar-2022 02:13:17 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home1/falkenfr/public_html/binmayhem/action.php on line 114
+[04-Mar-2022 02:55:49 America/Boise] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'dealonio_wp391'@'localhost' (using password: YES) in /home1/falkenfr/public_html/binmayhem/action.php on line 101
+[04-Mar-2022 02:55:49 America/Boise] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/falkenfr/public_html/binmayhem/action.php on line 113
+[04-Mar-2022 02:55:49 America/Boise] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home1/falkenfr/public_html/binmayhem/action.php on line 125
+[04-Mar-2022 03:01:11 America/Boise] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home1/falkenfr/public_html/binmayhem/action.php on line 184
+[04-Mar-2022 03:02:51 America/Boise] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home1/falkenfr/public_html/binmayhem/action.php on line 184
+[04-Mar-2022 03:24:54 America/Boise] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home1/falkenfr/public_html/binmayhem/action.php on line 191
+[04-Mar-2022 03:34:45 America/Boise] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home1/falkenfr/public_html/binmayhem/action.php on line 191
+[04-Mar-2022 04:43:33 America/Boise] PHP Warning:  Creating default object from empty value in /home1/falkenfr/public_html/binmayhem/action.php on line 139
+[04-Mar-2022 04:43:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home1/falkenfr/public_html/binmayhem/action.php:148
+Stack trace:
+#0 /home1/falkenfr/public_html/binmayhem/action.php(12): sendmail('939959494')
+#1 {main}
+  thrown in /home1/falkenfr/public_html/binmayhem/action.php on line 148
+[04-Mar-2022 04:44:33 America/Boise] PHP Warning:  Creating default object from empty value in /home1/falkenfr/public_html/binmayhem/action.php on line 137
+[04-Mar-2022 04:44:33 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home1/falkenfr/public_html/binmayhem/action.php:157
+Stack trace:
+#0 /home1/falkenfr/public_html/binmayhem/action.php(12): sendmail('9399594944')
+#1 {main}
+  thrown in /home1/falkenfr/public_html/binmayhem/action.php on line 157
+[04-Mar-2022 04:45:58 America/Boise] PHP Warning:  Creating default object from empty value in /home1/falkenfr/public_html/binmayhem/action.php on line 137
+[04-Mar-2022 04:45:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home1/falkenfr/public_html/binmayhem/action.php:157
+Stack trace:
+#0 /home1/falkenfr/public_html/binmayhem/action.php(12): sendmail('939999999')
+#1 {main}
+  thrown in /home1/falkenfr/public_html/binmayhem/action.php on line 157
+[04-Mar-2022 04:48:05 America/Boise] PHP Warning:  Creating default object from empty value in /home1/falkenfr/public_html/binmayhem/action.php on line 137
+[04-Mar-2022 04:48:05 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined method stdClass::setFrom() in /home1/falkenfr/public_html/binmayhem/action.php:157
+Stack trace:
+#0 /home1/falkenfr/public_html/binmayhem/action.php(12): sendmail('9333333333')
+#1 {main}
+  thrown in /home1/falkenfr/public_html/binmayhem/action.php on line 157

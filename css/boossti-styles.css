@@ -1,0 +1,20 @@
+.boossti-category-row {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+  flex-wrap: wrap;
+}
+
+.boossti-category-circle {
+  margin-top: 10px;
+  background-color: grey;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 5px;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.boossti-category-circle img {
+  width: 100%;
+}
